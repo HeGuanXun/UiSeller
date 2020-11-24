@@ -1,0 +1,57 @@
+let Brand = {
+    Brand: {
+      title: "Brand Management",
+      Brand_name: "Brand Name",
+      state: "State",
+      display: "Display",
+      No_display: "No Display",
+      search: "Search",
+      Reset: "Reset",
+      BrandLogo: "Brand Logo",
+      upload: "Upload",
+      Brand_status: "Brand Status",
+      Brand_English_name: "Brand English Name",
+      Initials: "Brand Initials",
+      description: "Brand Description",
+      region: "Area",
+      Creation_time: "Creation Time",
+      operation: "Operation",
+      Brand_code: "Brand Code：",
+      input_code: "Please input brand code",
+      View: "View",
+      sort: "Sort",
+      Language: "Language",
+      Add_brand: "Add Brand",
+      select_area: "Please select area",
+      select_lang: "Please select language",
+
+      Region: "Area:",
+      language: "Language:",
+      brand_name: "Brand Name:",
+      brandLogo: "Brand Logo",
+      Show: "Show",
+      input_name: "Please enter brand name",
+      select_Status: "Please select status",
+      Not_Show: "Not Show",
+      brand_status: "Brand Status:",
+      brand_English_name: "Brand English Name:",
+      Description: "Brand Description:",
+      Sort: "Sort:",
+      Sorts: "Please enter the sort number (number)",
+      Submit: "Submit",
+      cancel: "Cancel",
+      Edit_successful: "Edit Successfully！",
+      Add_successfully: "New Successfully！",
+      Edit_brand: "Edit Brand",
+      Add_Brand: "New Brand",
+      edit: "Edit",
+      OK: "OK",
+      upload: "Please upload brand Logo",
+      shuzi: "Sort number can only be a number",
+      delete: "Delete"
+
+
+    }
+  };
+
+  module.exports = Brand;

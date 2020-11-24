@@ -1,0 +1,58 @@
+let commodity = {
+    commodity: {
+      title: "Pick of the week",
+      Shop_ID: "Commodity ID",
+      state: "Status",
+      All: "All",
+      Exhibition: "Show",
+      shop_name: "Shop Name",
+      product_name: "Product Name",
+      Not_show: "Not Show",
+      Select: "Select product id",
+      start_time: "Start Time",
+      End_time: "End Time",
+      search: "Search",
+      Reset: "Reset",
+      Sort: "Sort",
+      type: "Type",
+      Language: "Language",
+      Area: "Area",
+      Sell_well: "Sell Well",
+      Newest: "Newest",
+      Recommended_time: "Recommended time",
+      operation: "Operation",
+      Move_down: "Move Down",
+      Add_recommended_store: "Add Recommended Commodity",
+      Choose: "Choose",
+      New: "New Recommended Commodity",
+      Edit: "Edit Recommended Commodity",
+      New_Successful: "New Successful！",
+      Edit_Successful: "Edit Successful！",
+      Whether_Delete: "Whether Delete？",
+      delete_success: "Delete Successful",
+      Delete_failed: "Failed to delete. Please contact the administrator",
+
+      input_ID: "Please select commodity ID",
+      input_Type: "Please select the type of advertisement",
+      Select_Status: "Please select status",
+      input_Sort: "Please enter the sort number",
+      input_number: "Please enter a numeric value",
+      Select_Language: "Please select a language",
+      Select_Area: "Please select area",
+
+      shop_ID: "Commodity ID:",
+      Type: "Type:",
+      sort: "Sort:",
+      State: "Status:",
+      language: "Language:",
+      area: "Area:",
+
+      edit: "Edit",
+      delete: "Delete",
+      OK: "OK",
+      Submit: "Submit",
+      cancel: "Cancel"
+    }
+  };
+
+  module.exports = commodity;

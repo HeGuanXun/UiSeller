@@ -1,0 +1,52 @@
+let Advertisement = {
+    Advertisement: {
+      title: "Wheel advertising",
+      Notice_ID: "Title",
+      Notice_title: "Jump link",
+      Announcement_content: "Picture",
+      Add_announcement: "Add Rotation Ads",
+      upload: "upload",
+      state: "Status",
+      sort: "Sort",
+      Status: "Status",
+      Language: "Language",
+      Area: "Area",
+      Exhibition: "Show",
+      Not_show: "Not Show",
+      Creation_time: "Creation Time",
+      Last_week: "Last Week",
+      Last_month: "Last Month",
+      Last_three_months: "Last Three Months",
+      operation: "operation",
+      New_movement: "New Rotation Ads",
+      Edit_movement: "Edit Rotation Ads",
+      Add: "Add rotation ad",
+      edit: "edit",
+      New_Successful: "New Successful！",
+      Edit_Successful: "Edit Successful！",
+      Delete_successful: "Delete Successful！",
+      Delete_Failed: "Failed to delete. Please contact the administrator",
+      OK: "OK",
+      confirm_deletion: "Confirm Deletion？",
+      notice_ID: "Title：",
+      notice_title: "Jump link：",
+
+      input_Title: "Please enter a title",
+      input_link: "Please enter a jump link",
+      Upload_pictures: "Please upload the picture",
+      input_sort: "Please enter sort",
+      input_number: "Please enter a numeric value",
+      Selection_state: "Please select status",
+
+      Sort: "Sort：",
+      status: "Status：",
+      language: "Language：",
+      area: "Area：",
+      announcement_content: "Picture：",
+      delete: "delete",
+      Submit: "Submit",
+      cancel: "cancel"
+    }
+  };
+
+  module.exports = Advertisement;
